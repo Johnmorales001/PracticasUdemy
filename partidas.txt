@@ -1,0 +1,11 @@
+
+Fecha: 03072023 00:42:44--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 16,Nombre: naty - Puntos: 16
+Fecha: 03072023 00:50:07--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 0,Nombre: naty - Puntos: 0
+Fecha: 03072023 00:51:51--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 18,Nombre: naty - Puntos: 18
+Fecha: 03072023 00:53:53--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 18,Nombre: mario - Puntos: 17,Nombre: mario - Puntos: 17
+Fecha: 03072023 00:56:04--Nombre: john - Puntos: 0,Nombre: mario - Puntos: 18,Nombre: naty - Puntos: 17,Nombre: juan - Puntos: 14,Nombre: juan - Puntos: 14
+Fecha: 03072023 00:58:23--Nombre: mario - Puntos: 0,Nombre: john - Puntos: 18,Nombre: naty - Puntos: 17,Nombre: juan - Puntos: 14,Nombre: juan - Puntos: 14
+Fecha: 03072023 01:04:36--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 0,Nombre: juan - Puntos: 0,Nombre: andres - Puntos: 17,Nombre: andres - Puntos: 17
+Fecha: 03072023 01:05:34--Nombre: john - Puntos: 0,Nombre: naty - Puntos: 0,Nombre: naty - Puntos: 0
+Fecha: 03072023 01:06:03--Nombre: john - Puntos: 15,Nombre: naty - Puntos: 16,Nombre: naty - Puntos: 16
+Fecha: 03072023 01:10:14--Nombre: john - Puntos: 17,Nombre: naty - Puntos: 15,Nombre: juan - Puntos: 12,Nombre: mario - Puntos: 17,Nombre: mario - Puntos: 17
